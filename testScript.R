@@ -1,0 +1,1 @@
+print("This is my first R script with GitHub config control")
